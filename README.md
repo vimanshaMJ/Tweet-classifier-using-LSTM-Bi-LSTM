@@ -29,22 +29,22 @@ A deep learning project that classifies tweets as personal health mentions (PHM)
 ## 📁 Project Structure
 
 ```
-├── config/                # Configuration files
-├── data/                  # Dataset (train/test CSVs)
+├── config/                
+├── data/                  
 │   ├── phm_train.csv
 │   └── phm_test.csv
-├── models/                # Saved models and tokenizer
+├── models/                
 │   ├── bilstm_model.h5
 │   ├── lstm_model.h5
 │   └── tokenizer.pkl
-├── notebooks/             # Jupyter notebooks for exploration
+├── notebooks/            
 │   └── project.ipynb
-├── src/                   # Source code
+├── src/                  
 │   ├── interface.py
 │   ├── predict.py
 │   ├── train.py
 │   └── utils.py
-├── ProjectReport.pdf      # Detailed project report
+├── ProjectReport.pdf      
 ```
 
 ---
