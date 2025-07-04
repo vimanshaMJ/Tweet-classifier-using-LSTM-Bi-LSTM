@@ -49,6 +49,11 @@ A deep learning project that classifies tweets as personal health mentions (PHM)
 
 ---
 
+## 🚀 Launch Web Interface
+
+python src/interface.py
+
+
 ## 🛠️ Technologies Used
 
 - **Python**
@@ -58,4 +63,3 @@ A deep learning project that classifies tweets as personal health mentions (PHM)
 - **Matplotlib - Visualizing model performance, such as accuracy/loss plots**
 - **scikit-learn (sklearn) - Data preprocessing, model evaluation, and providing metrics like confusion matrix and accuracy score**
 
----
