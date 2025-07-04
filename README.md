@@ -51,8 +51,9 @@ A deep learning project that classifies tweets as personal health mentions (PHM)
 
 ## 🚀 Launch Web Interface
 
-python src/interface.py
+`python src/interface.py`
 
+---
 
 ## 🛠️ Technologies Used
 
